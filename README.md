@@ -1,7 +1,6 @@
 ## Elective-Advisory-System
-# Elective advisory/prediction system in Prolog for BTech or MTech students of IIITD
-
-# Input:
+###### Elective advisory/prediction system in Prolog for BTech or MTech students of IIITD
+###### Input:
 1. start. to start the code
 2. user_name
 3. Choose any one of the available career options
